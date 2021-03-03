@@ -8,9 +8,10 @@ It is an alert sender python program. It sends an email when the prices of the p
 
 ## Preview
 
-** Product price detail **
-![]()
+**Product price detail**
 
-** Email sent **
+![](pricedetail.png)
 
-![]()
+**Email sent**
+
+![](email.png)
